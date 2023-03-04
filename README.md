@@ -1,6 +1,6 @@
 # vue-test
 
-First vue test using
+Vue playground
 - vite
 - tailwind css
 - eslint
